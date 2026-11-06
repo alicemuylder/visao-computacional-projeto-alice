@@ -1,0 +1,5 @@
+{
+ "run": "E1_perda_ponderada",
+ "conf_threshold": 0.6855905652046204,
+ "refer_fraction_val": 0.2
+}
